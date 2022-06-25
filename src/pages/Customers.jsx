@@ -1,7 +1,7 @@
 import React from "react";
 
-const UserProfie = () => {
+const Customers = () => {
   return <div></div>;
 };
 
-export default UserProfie;
+export default Customers;
